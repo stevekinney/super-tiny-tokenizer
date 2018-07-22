@@ -15,7 +15,6 @@
     "@types/node": "^10.5.2",
     "chai": "^4.1.2",
     "mocha": "^5.2.0",
-    "node-tokenizer": "0.0.0",
     "ts-node": "^7.0.0",
     "typescript": "^2.9.2"
   }
